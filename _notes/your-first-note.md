@@ -5,7 +5,10 @@ title: Your first seed
 ### Welcome!
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
-Check check [[animals/Mango Manipulation]]
+Check [[Mango Manipulation]]
+Testing [[testing1]]
+
+
 
 ### Link syntax
 
