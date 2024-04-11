@@ -15,6 +15,9 @@ My book recap
 - [[📙 This is marketing]]
 - [[📙 Building a Storybrand - Donald Miller]]
 
+My Note
+- [[NateCue - Solana Ecosystem Call IRL Feedback]]
+
 <style>
   .wrapper {
     max-width: 46em;
